@@ -1,5 +1,5 @@
 *{
-
+  margin: 0;
   font-weight: lighter;
   box-sizing: border-box;
   justify-content: space-between;
@@ -29,10 +29,9 @@
   color: lightgrey;
   padding-bottom: 50px;  
 }.photo{
-  width: 20px;
-  height: 20px;
-  margin-top: 20px;
-  vertical-align: middle;
+  width: 40px;
+  border-radius: 55%;
+  padding: px 10px;
 }.one{
   display: flex;
 }.box{
@@ -43,12 +42,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: fit-content; 
   padding: 10px 25px;
   background-color: green;
   border-radius: 5px;
 } .box-3{
   flex: 3;
+  justify-content: center;
+  width: fit-content;
+  align-items: center;
+  padding: 10px 25px;
 }.text-1{
   width: fit-content;
 }
