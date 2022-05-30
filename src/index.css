@@ -40,11 +40,15 @@
 }.box-2{
   flex: 1;
 }.box-1{
-  height:20px;
-  width: 60px; 
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content; 
+  padding: 10px 25px;
   background-color: green;
   border-radius: 5px;
 } .box-3{
   flex: 3;
+}.text-1{
+  width: fit-content;
 }
