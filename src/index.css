@@ -28,7 +28,6 @@
 }.text{
   color: lightgrey;
   padding-bottom: 50px; 
-
 }.photo{
   width: 20px;
   border-radius: 55%;
@@ -70,4 +69,7 @@
   color: #fff;
   background-color: purple;
   border-radius: 5px;
+}.description{
+  color: lightgrey;
+  padding-bottom: 25px; 
 }

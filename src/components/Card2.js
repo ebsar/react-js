@@ -15,7 +15,7 @@ function Card2 (props){
             </div>
     
           </div>
-          <div className='text'>
+          <div className='description'>
           <h6>Introducing Host Cloud Driver - virtual driver functional <br/>New Share options and management <br/> New, more user friendly design sync <br/> optimizations Various performance <br/>improvements and bug fixes</h6>
         </div>
         <div className='actions'>
