@@ -9,7 +9,7 @@ function Card(props){
           <h6 className="text1">New</h6>
        </div> 
         <div className="box-2">
-        <img className="photo" src="https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png" alt="" />
+        <img className="photo" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg" alt="" />
         </div>
         <div className="box-3">
           <h6>Kevin Joe</h6>

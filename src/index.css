@@ -20,8 +20,8 @@
   padding: 0.5rem 1.5rem;
   width: 150px;
   border-radius: 20px;
-  color: #1260CC;
-  border: 1px solid #1260CC;
+  color: #7096ff;
+  border: 1px solid #7096ff;
   background-color: white; 
 }.actions{
   padding-bottom: 12px;
@@ -29,9 +29,10 @@
   color: lightgrey;
   padding-bottom: 50px; 
 }.photo{
-  width: 20px;
-  border-radius: 55%;
-  align-items: center;
+  width: 25px;
+  border-radius: 60%;
+  margin-left: 23%;
+  margin-top: 3px;
 }.box{
   display: flex;
   padding-top: 15px;
@@ -39,17 +40,17 @@
   align-items: center;
 }.box-2{
   flex: 1;
- 
+  border-radius: 50%;
 }.box-1{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 3px 22px;
+  padding: 5px 25px;
   color: #fff;
-  background-color: green;
+  background-color: #01c853;
   border-radius: 5px;
 } .box-3{
-  flex: 3;
+  flex: 2;
   justify-content: center;
 }.text-1{
   width: fit-content;
@@ -57,17 +58,17 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 3px 22px;
+  padding: 5px 30px;
   color: #fff;
-  background-color: blue;
+  background-color: #2962ff;
   border-radius: 5px;
 }.box-1-2-3{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 3px 22px;
+  padding: 5px 30px;
   color: #fff;
-  background-color: purple;
+  background-color: #c35bff;
   border-radius: 5px;
 }.description{
   color: lightgrey;
