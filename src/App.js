@@ -6,8 +6,10 @@ function App() {
     <div className="test">
     <div className="container-card">
     <Card/>
+    <Card/>
+    <Card/>
     </div>
-   {/* <div className="container2">
+   <div className="container2">
     <Card2/>
     <Card2/>
     <Card2/>
@@ -16,7 +18,7 @@ function App() {
     <Card3/>
     <Card3/>
     <Card3/>
-  </div> */}
+  </div> 
   </div> 
   </div>
 }

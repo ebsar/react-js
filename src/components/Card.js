@@ -17,8 +17,7 @@ function Card(props){
       </div>
       <div className='text'>
       <h6>
-        Houston Hosk cloud driver the usual driver functionality. <br/>
-      New share options and management New more user friendly design sync optimizations Various performance improvements and bug fixes
+      Files system changed from Dokan to CBFS Host Cloud Drive is now a network drive Various bug fixes and stability improvements Share permission re-design and optimization
       </h6>
     </div>
     <div className='actions'>

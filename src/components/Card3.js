@@ -4,8 +4,8 @@ function Card3 (props){
         <div className='card2'>
         <h5>3.1.0 (20/05/2015)</h5>
           <div className="box">
-            <div className="box-1">
-              <h6>New</h6>
+            <div className="box-1-2-3">
+              <h6>Improvements</h6>
             </div>
             <div className="box-2">
               <img className="photo" src="https://i.pinimg.com/originals/39/6c/d8/396cd8e1d8557f73c786892cffa4f13c.png"alt=""/>
